@@ -179,7 +179,6 @@ transition: var(--main-transition) ease;
 }
 .project-card{
 background-color: #fff;
-border: 1px solid #fff;
 min-height: 14em;
 width: 38em;
 overflow: hidden;
@@ -210,6 +209,7 @@ justify-content: space-between;
 text-transform: uppercase;
 font-weight: 900;
 margin-top: 10px;
+    margin-bottom: 13px;
 }
 .project-card .more-details{
 color: var(--main-color);
