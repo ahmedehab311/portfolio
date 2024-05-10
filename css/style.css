@@ -330,4 +330,9 @@ align-items: center;
     }
 
 }
+@media (max-width:450px){
+    .content{
+        flex-direction: row;
+    }
+}
 /* end media */
