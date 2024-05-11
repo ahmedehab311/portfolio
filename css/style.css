@@ -180,7 +180,6 @@ transition: var(--main-transition) ease;
 }
 .project-card{
 background-color: #fff;
-/* border: 1px solid #fff; */
 min-height: 14em;
 width: 39em;
 overflow: hidden;
